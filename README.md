@@ -16,24 +16,25 @@ Recording Details:
 3. Bit Resolution       : 16 bits/sample
 4. Recording Type       : Mono
 5. Speaker              : Adult Male
-6. Average Pitch Range  : ~130–150 Hz
+6. Average Pitch Range  : ~90–130 Hz
 
 ------------------------------------------------------------
 Recorded Sounds:
 
 Vowels (स्वर):
 1. अ (a)
-2. आ (aa)
+2. आ (ā)
 3. इ (i)
-4. ऊ (uu)
-5. ए (e)
+4. उ (u)
+5. ऋ (ṛ)
 
 Consonants (व्यंजन):
-1. क (ka) — Velar
-2. ज (ja) — Palatal
-3. ध (dha) — Retroflex
-4. म (ma) — Nasal
-5. ब (ba) — Labial
+1. क (ka) 
+2. ख (kha) 
+3. ग (ga) 
+4. ज (ja)
+5. ट (ṭa)
+6. ठ (ṭha)
 
 ------------------------------------------------------------
 File Naming Convention:
@@ -50,22 +51,6 @@ hindi_i.wav
 Purpose of Collected Samples:
 1. To generate narrowband and wideband spectrograms for pitch and formant analysis.  
 2. To estimate pitch using the Average Magnitude Difference (AMD) method.
-
-------------------------------------------------------------
-Repository Structure:
-Recordings/
-├── amd_estimation.m
-├── cepstral_analysis.m
-├── hindi_a.wav
-├── hindi_aa.wav
-├── hindi_ee.wav
-├── hindi_uu.wav
-├── hindi_ae.wav
-├── hindi_dha.wav
-├── hindi_ka.wav
-├── hindi_ja.wav
-├── hindi_ma.wav
-└── hindi_ba.wav
 
 ------------------------------------------------------------
 Remarks:
